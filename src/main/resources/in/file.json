@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "year": "1975",
+    "genres": "Rock, Progressive rock, Hard rock"
+  },
+  {
+    "name": "ROADS UNTRAVELED",
+    "artist": "Linkin Park",
+    "album": "LIVING THINGS",
+    "year": "2012",
+    "genres": "Rock, Alternative Rock"
+  },
+  {
+    "name": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": "1991",
+    "genres": "Grunge, Alternative rock"
+  },
+  {
+    "name": "Painkiller",
+    "artist": "Three Days Grace",
+    "album": "Human",
+    "year": "2015",
+    "genres": "Rock"
+  },
+  {
+    "name": "Hotel California",
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "year": "1976",
+    "genres": "Rock, Soft rock"
+  }
+]

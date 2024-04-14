@@ -1,0 +1,37 @@
+[
+  {
+    "name": "My Hero",
+    "artist": "Foo Fighters",
+    "album": "The Colour and The Shape",
+    "year": "1997",
+    "genres": "Indie Rock, Alternative Rock"
+  },
+  {
+    "name": "Dani California",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "genres": "Alternative Rock, Funk-Rock"
+  },
+  {
+    "name": "Kickstart My Heart",
+    "artist": "Motley Crue",
+    "album": "Dr. Feelgood",
+    "year": "1989",
+    "genres": "Metal"
+  },
+  {
+    "name": "Mr. Brightside",
+    "artist": "The Killers",
+    "album": "Hot Fuss",
+    "year": "2004",
+    "genres": "Alternative Rock, Indie Rock"
+  },
+  {
+    "name": "Paranoid",
+    "artist": "Black Sabbath",
+    "album": "Paranoid",
+    "year": "1970",
+    "genres": "Heavy Metal, Proto-Punk, Rock"
+  }
+]
